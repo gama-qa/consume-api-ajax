@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Work+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500&display=swap');
+body{
+    font-family: "Work Sans";
+}
+
+/* Breadcrumbs Styling */
+.breadcrumb{
+    background-color: white;
+}
+
+/* Jumbotron - Styling */
+.jumbotron{
+    background-image: url("../img/meals-header-bg4.jpg");
+    background-size: cover;
+    color: white;
+}
+
+/* Card - Styling */
+.card{
+    background-color: #292b2c;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+
+.card img{
+    border-radius: 20px 20px 0 0;
+}
+
+.card .btn {
+    border-radius: 50px;
+}
+
+.card:hover{
+box-shadow: 9px 13px 56px -6px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 9px 13px 56px -6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 13px 56px -6px rgba(0, 0, 0, 0.75);
+}
