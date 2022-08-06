@@ -1,4 +1,5 @@
-# cmlabs-frontend-internship-test
+# Consume API Menggunakan AJAX
+
 
 Cara untuk Running Project:
 1. Clone file project
